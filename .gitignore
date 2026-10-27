@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+
+# Java build folders
+bin/
+build/
+out/
+target/
+
+# VS Code local settings
+.vscode/
+
+# JDBC driver files
+*.jar
+
+# Temporary files
+*.log
+*.tmp
+
+# Environment variables and secrets
+.env
